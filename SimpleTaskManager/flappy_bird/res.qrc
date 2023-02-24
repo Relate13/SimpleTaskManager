@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>smile.png</file>
+        <file>sweat.png</file>
+        <file>block.png</file>
+        <file>background.png</file>
+        <file>cactus_side.png</file>
+        <file>sand.png</file>
+        <file>ground.png</file>
+        <file>fist.png</file>
+        <file>timenumber.bmp</file>
+        <file>sunglasses.png</file>
+        <file>stars.png</file>
+        <file>numbers.png</file>
+        <file>sun.png</file>
+        <file>elder.png</file>
+        <file>shop.png</file>
+        <file>smile_with_gun.png</file>
+        <file>bullet.png</file>
+        <file>umbrella.png</file>
+        <file>rocket.png</file>
+        <file>bgm.wav</file>
+        <file>death.wav</file>
+        <file>jump.wav</file>
+    </qresource>
+</RCC>
