@@ -10,7 +10,7 @@
 
 ![image-20210607204841428](pictures/image-20210607204841428.png)
 
-###　１.内核模块划分
+###  １.内核模块划分
 
 将内核程序划分为三个类：**PROCESS_DATA，PROCESS_LIB，TASK_MANAGER**
 
